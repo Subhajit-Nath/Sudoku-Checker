@@ -1,0 +1,12 @@
+/Volumes/Development/AppDevelopment/CSharp/Sudoku-Checker/SudokuChecker/SudokuChecker/bin/Debug/netcoreapp3.1/SudokuChecker.deps.json
+/Volumes/Development/AppDevelopment/CSharp/Sudoku-Checker/SudokuChecker/SudokuChecker/bin/Debug/netcoreapp3.1/SudokuChecker.runtimeconfig.json
+/Volumes/Development/AppDevelopment/CSharp/Sudoku-Checker/SudokuChecker/SudokuChecker/bin/Debug/netcoreapp3.1/SudokuChecker.runtimeconfig.dev.json
+/Volumes/Development/AppDevelopment/CSharp/Sudoku-Checker/SudokuChecker/SudokuChecker/bin/Debug/netcoreapp3.1/SudokuChecker.dll
+/Volumes/Development/AppDevelopment/CSharp/Sudoku-Checker/SudokuChecker/SudokuChecker/bin/Debug/netcoreapp3.1/SudokuChecker.pdb
+/Volumes/Development/AppDevelopment/CSharp/Sudoku-Checker/SudokuChecker/SudokuChecker/obj/Debug/netcoreapp3.1/SudokuChecker.csprojAssemblyReference.cache
+/Volumes/Development/AppDevelopment/CSharp/Sudoku-Checker/SudokuChecker/SudokuChecker/obj/Debug/netcoreapp3.1/SudokuChecker.AssemblyInfoInputs.cache
+/Volumes/Development/AppDevelopment/CSharp/Sudoku-Checker/SudokuChecker/SudokuChecker/obj/Debug/netcoreapp3.1/SudokuChecker.AssemblyInfo.cs
+/Volumes/Development/AppDevelopment/CSharp/Sudoku-Checker/SudokuChecker/SudokuChecker/obj/Debug/netcoreapp3.1/SudokuChecker.csproj.CoreCompileInputs.cache
+/Volumes/Development/AppDevelopment/CSharp/Sudoku-Checker/SudokuChecker/SudokuChecker/obj/Debug/netcoreapp3.1/SudokuChecker.dll
+/Volumes/Development/AppDevelopment/CSharp/Sudoku-Checker/SudokuChecker/SudokuChecker/obj/Debug/netcoreapp3.1/SudokuChecker.pdb
+/Volumes/Development/AppDevelopment/CSharp/Sudoku-Checker/SudokuChecker/SudokuChecker/obj/Debug/netcoreapp3.1/SudokuChecker.genruntimeconfig.cache

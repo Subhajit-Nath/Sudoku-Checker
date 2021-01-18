@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8AE41154-954E-4526-9896-28F23D88BB9F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SudokuChecker/Program.cs">
+    <Files>
+      <File FileName="SudokuChecker/Program.cs" Line="58" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SudokuChecker" expanded="True">
+            <Node name="SudokuChecker" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Development/AppDevelopment/CSharp/Sudoku-Checker/SudokuChecker/SudokuChecker/Program.cs" relfile="SudokuChecker/Program.cs" line="85" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SudokuChecker PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
